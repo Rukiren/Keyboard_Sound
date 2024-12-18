@@ -1,0 +1,5 @@
+windres sound.rc -O coff sound.o
+
+g++ -std=c++11 main.cpp sound.o -o keyboard_sound.exe -lwinmm -static
+
+不加那個 Static 會被那個動態連結搞到很煩躁(
