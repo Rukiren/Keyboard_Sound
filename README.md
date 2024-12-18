@@ -11,3 +11,7 @@
 
 ## Todo:
 1. 現在好像會有一點延遲，這個不確定是哪部分造成的
+
+**強烈建議把音量降低，並且不要戴耳機聽**
+https://github.com/user-attachments/assets/7f1dea20-602e-445a-8363-0f2e1004c13e
+
